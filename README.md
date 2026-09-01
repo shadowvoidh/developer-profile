@@ -1,3 +1,5 @@
+**[PT-BR ]** |   **[[ENG 🇺🇸 ]](README.en.md)**
+
 #  (Shadow_Voidh)
 
 Apaixonado por tecnologia, desenvolvimento web e criação de jogos. Minha jornada na programação começou pela curiosidade de entender como os jogos são feitos e, desde então, venho transformando essa paixão em projetos práticos.
