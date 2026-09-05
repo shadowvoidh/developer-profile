@@ -51,8 +51,8 @@ Passionate about technology, software development, and game architecture. My jou
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shadowvoidh&show_icons=true&theme=dark&hide_border=true&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvoidh&layout=compact&theme=dark&hide_border=true&title_color=FF69B4" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowvoidh&theme=2077" alt="GitHub Profile Summary" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadowvoidh&theme=2077" alt="Repos per Language" />
 </p>
 
 ---
