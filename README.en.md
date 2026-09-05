@@ -1,39 +1,68 @@
 **[[PT-BR 🇧🇷]](README.md)** | **[ENG 🇺🇸]**
 
-# (Shadow_Voidh)
+# Pedro Carnio (Shadow_Voidh)
+> **IT Student & Software / Game Developer**
 
-Passionate about technology, web development, and game development. My programming journey started out of curiosity to understand how games are made, and since then, I've been turning that passion into practical projects.
+Passionate about technology, software development, and game architecture. My journey began with a curiosity to understand the inner workings of games and systems, which led me to focus on low-level programming, web development, and software engineering.
 
----
-
-## 📜 My Journey
-
-* **Early Interest:** I've always followed content about game development and programming.
-* **2023:** Got into programming through YouTube tutorials to build a **Discord bot in Python**.
-* **2025:** Enrolled in a **Technical High School in IT & Software Development**, deepening my studies in **Python, C, HTML5, CSS3, JavaScript, and MySQL**.
-* **2026:** Expanded my web stack by learning **TypeScript, Node.js, Next.js, Vue.js, React, Tailwind CSS, Go, PHP, Rust, and SQLite**.
-* **Currently:** Focused on learning **C++, C#**, **Rust, and TypeScript**.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=C%2B%2B+%2F+C%23+%2F+Rust+Developer;IT+Technical+Student;Focused+on+Low-Level+%26+Game+Dev" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### 💻 Web Development & Back-End
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `Next.js` · `Vue.js` · `Tailwind CSS` · `PHP` · `Go` · `HTML5` · `CSS3` · `MySQL` · `SQLite`
-
-### 🐍 Languages & Algorithms
-`Python` · `C` · `Rust`
-
-### 🎮 Currently Learning (Game Dev)
-`C++` · `C#`
+## 🎯 Current Focus
+* 🚀 **Deepening my knowledge in:** C++, C#, and Rust for high-performance applications and systems development.
+* 📚 **Education:** Currently pursuing a Technical High School Diploma in Information Technology.
 
 ---
+
+## 🛠️ Technologies & Skills
+
+### ⚙️ Low-Level & Systems Languages
+`C` · `C++` · `C#` · `Rust` · `Go` · `Python`
+
+### 🌐 Web Development & Back-End
+`TypeScript` · `JavaScript` · `Node.js` · `Next.js` · `React` · `Vue.js` · `Tailwind CSS` · `PHP` · `HTML5` · `CSS3`
+
+### 🗄️ Databases
+`MySQL` · `SQLite`
+
+---
+
+## 📜 Journey
+
+* **2023:** First hands-on experience with programming, creating Python automations and Discord bots.<br><br>
+* **2025:** Started the **IT Technical High School Program**, consolidating core fundamentals of algorithms, web development, and structured databases.<br><br>
+* **2026:** Expanded my web development stack and compiled languages ecosystem (Go, Rust, TypeScript, Node.js).<br><br>
+* **Currently:** Fully focused on learning **TSX & Rust | C++ & C#** targeted at native projects, game development, and software engineering.<br><br>
+
+---
+### ☀ Featured Projects
+
+* 📦 **[Index Ubers](https://github.com/shadowvoidh/Index-Ubers)** – A web application built to consolidate advanced code structuring concepts.*<br><br><br>
+* 🌐 **[DevSpace](https://github.com/shadowvoidh/DevSpace)** – All-in-one developer workspace featuring a Markdown snippet manager, task tracker (To-Do), and quick code links. Built with Go, SQLite, Vue 3, Next.js, TypeScript, and Tailwind CSS.*<br><br><br>
+* 🐍 **[Ram Price Tracker](https://github.com/shadowvoidh/Ram-Price-Tracker)** – A Python script developed to simulate, monitor, and log RAM price fluctuations (DDR4 & DDR5).*<br><br><br>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shadowvoidh&show_icons=true&theme=dark&hide_border=true&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvoidh&layout=compact&theme=dark&hide_border=true&title_color=FF69B4" alt="Top Languages" />
+</p>
+
+---
+
+## 🌘 Author
+* *Shadow_Voidh:* [GitHub](https://github.com/shadowvoidh)
 
 ## 📬 Contact
-
-
-* **GitHub:** [@shadowvoidh](https://github.com/shadowvoidh)
-* **Instagram:** [@shadow_voidh](https://www.instagram.com/shadow_voidh/)
-* **LinkedIn:** [Pedro Carnio](https://linkedin.com/in/pedrocarnio)
-* **Discord:** shadow_voidh
-* **Email:** shadow.voidh@gmail.com
+* *GitHub:* [@shadowvoidh](https://github.com/shadowvoidh)
+* *Instagram:* [@shadow_voidh](https://www.instagram.com/shadow_voidh/)
+* *LinkedIn:* [Pedro Carnio](https://linkedin.com/in/pedrocarnio)
+* *Discord:* shadow_voidh
+* *Email:* shadow.voidh@gmail.com
