@@ -32,7 +32,8 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ---
 
 ## 📜 Trajetória
-
+* **2019:** Inicio de Um Jogo do Roblox em Lua 
+<br>
 * **2023:** Primeiro contato prático com programação criando automações e bots em Python para o Discord.<br><br>
 * **2025:** Início do **Ensino Médio Técnico em TI**, consolidando fundamentos de algoritmos, desenvolvimento web e bancos de dados estruturados.<br><br>
 * **2026:** Expansão da stack de desenvolvimento web e ecossistema de linguagens compiladas (Go, Rust, TypeScript, Node.js).<br><br>
