@@ -34,8 +34,10 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ## 📜 Trajetória
 * **2019 a 2021:** Jogo de Rpg feito em Lua e Modelagem 3D no Roblox .(porem o jogo foi excluido em 2021)<br><br>
 * **2023:** Primeiro contato prático com programação criando automações e bots em Python para o Discord.<br><br>
-* **2025:** Início do **Ensino Médio Técnico em TI**, consolidando fundamentos de algoritmos, desenvolvimento web e bancos de dados estruturados.<br><br>
-* **2026:** Expansão da stack de desenvolvimento web e ecossistema de linguagens compiladas (Go, Rust, TypeScript, Node.js).<br><br>
+* **2025:** Início do **Ensino Médio Técnico em TI**, consolidando fundamentos de algoritmos, desenvolvimento web e bancos de dados estruturados(Html, Css, Javascript, Python, C, Mysql, SQlite).<br><br>
+* **Final de 2025:** Expansão da stack de desenvolvimento web e ecossistema de linguagens compiladas (Go, Rust, TypeScript, Node.js).<br><br>
+* **Inicio de 2026:** Expansão da stack de desenvolvimento web (Java, React, Vue.js, Next.js).<br><br>
+
 * **Atualmente:** Foco total no aprendizado de **TSX e RUST | C++ e C#** voltados para projetos nativos, jogos e engenharia de software.<br><br>
 
 ---
