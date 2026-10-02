@@ -21,13 +21,19 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ## 🛠️ Tecnologias & Habilidades
 
 ### ⚙️ Low-Level & Linguagens de Sistemas
-`C` · `C++` · `C#` · `Rust` · `Go` · `Python`
+`Rust` <br>
+`Java` <br>
+`C` <br>
+`C++` <br>
+`C#` <br>
+`Go` <br>
+`Python` 
 
 ### 🌐 Desenvolvimento Web & Back-End
-`TypeScript` · `JavaScript` · `Node.js` · `Next.js` · `React` · `Vue.js` · `Tailwind CSS` · `PHP` · `HTML5` · `CSS3`
+`TypeScript` <br> `JavaScript` <br> `Node.js` <br> `Next.js` <br> `React` <br> `Vue.js` <br>  `PHP` <br> `HTML5` <br> `CSS3` <br> `Tailwind CSS` 
 
 ### 🗄️ Bancos de Dados
-`MySQL` · `SQLite`
+`MySQL` <br> `SQLite` <br> `PostgreSQL` 
 
 ---
 
@@ -43,9 +49,17 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ---
 ### ☀ Projetos em Destaque
 
-* 📦 **[Index Ubers ](https://github.com/shadowvoidh/Index-Ubers)** – Aplicação web desenvolvida com o objetivo de consolidar conceitos avançados de estruturação*<br><br><br>
+<div align="center"><h1>Web</h1></div>
 * 🌐 **[DevSpace](https://github.com/shadowvoidh/DevSpace)** – Workspace de desenvolvimento tudo-em-um com gerenciador de snippets em Markdown, gerenciador de tarefas (To-Do) e links rápidos para código. Desenvolvido com Go, SQLite, Vue 3, Next.js, TypeScript e Tailwind CSS.*<br><br><br>
+* 🌐 **[]()**   *<br><br><br><br><br>
+
+<div align="center"><h1>Java</h1></div>
+* ☕ **[]()**   *<br><br><br>
+* ☕ **[]()**   *<br><br><br><br><br>
+
+<div align="center"><h1>Python</h1></div>
 * 🐍 **[Ram Price Tracker](https://github.com/shadowvoidh/Ram-Price-Tracker)** – Um script em Python desenvolvido para simular, monitorar e registrar a flutuação de preços de memórias RAM (DDR4 e DDR5)*<br><br><br>
+* 🐍 **[]()**   *<br><br><br><br><br>
 
 ---
 
