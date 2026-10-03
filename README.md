@@ -37,14 +37,24 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 
 ---
 
-## 📜 Trajetória
-* **2019 a 2021:** Jogo de Rpg feito em Lua e Modelagem 3D no Roblox .(porem o jogo foi excluido em 2021)<br><br>
-* **2023:** Primeiro contato prático com programação criando automações e bots em Python para o Discord.<br><br>
-* **2025:** Início do **Ensino Médio Técnico em TI**, consolidando fundamentos de algoritmos, desenvolvimento web e bancos de dados estruturados(Html, Css, Javascript, Python, C, Mysql, SQlite).<br><br>
-* **Final de 2025:** Expansão da stack de desenvolvimento web e ecossistema de linguagens compiladas (Go, Rust, TypeScript, Node.js).<br><br>
-* **Inicio de 2026:** Expansão da stack de desenvolvimento web (Java, React, Vue.js, Next.js).<br><br>
+## 📜 Trajetória & Evolução Técnica
 
-* **Atualmente:** Foco total no aprendizado de **TSX e RUST | C++ e C#** voltados para projetos nativos, jogos e engenharia de software.<br><br>
+* **2019 – 2021 | Primeiros Passos em Lógica e 3D**  
+  Desenvolvimento de mecânicas de jogo e scripts em **Lua**, aliados à modelagem 3D na plataforma Roblox.
+
+* **2023 | Automação e Integrações**  
+  Criação de bots e automações em **Python** integrados à API do Discord, aprofundando conceitos de lógica de programação e manipulação de APIs.
+
+* **2025 | Formação Técnica e Fundamentos**  
+  Início do **Ensino Médio Técnico em TI**, consolidando base sólida em algoritmos, orientação a objetos e bancos de dados relacionais (**C**, **Python**, **HTML5/CSS3**, **JavaScript**, **MySQL**, **SQLite**).
+
+* **Final de 2025 | Linguagens de Sistemas e Backend**  
+  Expansão do ecossistema de linguagens compiladas e concorrentes com foco em performance e escalabilidade (**Go**, **Rust**, **TypeScript**, **Node.js**, **Java**).
+
+* **2026 | Arquitetura Frontend & Frameworks Modernos**  
+  Especialização no ecossistema moderno de desenvolvimento Web e reatividade (**React**, **Vue.js**, **Next.js**, **Tailwind CSS**).
+  
+* **Atualmente:** Foco total no aprendizado de **TSX e RUST & JAVA** voltados para projetos nativos, jogos e engenharia de software.<br><br>
 
 ---
 ### ☀ Projetos em Destaque
