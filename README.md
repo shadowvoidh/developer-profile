@@ -48,16 +48,25 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 
 ---
 ### ☀ Projetos em Destaque
-
 <div align="center"><h1>Web</h1></div>
-* 🌐 **[DevSpace](https://github.com/shadowvoidh/DevSpace)** – Workspace de desenvolvimento tudo-em-um com gerenciador de snippets em Markdown, gerenciador de tarefas (To-Do) e links rápidos para código. Desenvolvido com Go, SQLite, Vue 3, Next.js, TypeScript e Tailwind CSS.*<br><br><br>
+
+
+
+🌐 **[DevSpace](https://github.com/shadowvoidh/DevSpace)** – Workspace de desenvolvimento tudo-em-um com gerenciador de snippets em Markdown, gerenciador de tarefas (To-Do) e links rápidos para código. Desenvolvido com Go, SQLite, Vue 3, Next.js, TypeScript e Tailwind CSS.
+<br><br><br>
 * 🌐 **[]()**   *<br><br><br><br><br>
 
 <div align="center"><h1>Java</h1></div>
+
+
+
 * ☕ **[]()**   *<br><br><br>
 * ☕ **[]()**   *<br><br><br><br><br>
 
 <div align="center"><h1>Python</h1></div>
+
+
+
 * 🐍 **[Ram Price Tracker](https://github.com/shadowvoidh/Ram-Price-Tracker)** – Um script em Python desenvolvido para simular, monitorar e registrar a flutuação de preços de memórias RAM (DDR4 e DDR5)*<br><br><br>
 * 🐍 **[]()**   *<br><br><br><br><br>
 
