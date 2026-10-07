@@ -20,20 +20,62 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 
 ## 🛠️ Tecnologias & Habilidades
 
-### ⚙️ Low-Level & Linguagens de Sistemas
+## ⚙️ Low-Level & Linguagens de Sistemas
 `Rust` <br>
-`Java` <br>
+`Java` <br> 
 `C` <br>
 `C++` <br>
 `C#` <br>
 `Go` <br>
 `Python` 
 
-### 🌐 Desenvolvimento Web & Back-End
-`TypeScript` <br> `JavaScript` <br> `Node.js` <br> `Next.js` <br> `React` <br> `Vue.js` <br>  `PHP` <br> `HTML5` <br> `CSS3` <br> `Tailwind CSS` 
+## 🌐 Desenvolvimento Web & Back-End
+`TypeScript` <br> 
+`JavaScript` <br> 
+`Node.js` <br>
+`Next.js` <br> 
+`React` <br> 
+`Vue.js` <br>  
+`PHP` <br> 
+`HTML5` <br> 
+`CSS3` <br> 
+`Tailwind CSS` 
 
-### 🗄️ Bancos de Dados
+## 🗄️ Bancos de Dados
 `MySQL` <br> `SQLite` <br> `PostgreSQL` 
+
+## 🗒️ IDEs
+`VS Code` <br>
+`Visual Studio` <br>
+`InteliJ` <br>
+`WebStorm` <br>
+`Eclipse`
+
+##  🔧 Ferramentas 
+`Git` <br>
+`Docker` <br>
+`Vmware` <br>
+`Obsidian` <br>
+`Filezilla` <br>
+`Blender` 
+
+
+## 🤖 IAs 
+`Claude AI` <br>
+`Gemini AI` <br>
+`ChatGPT ` <br>
+
+## 🌐 Web
+
+
+## 💻 OS 
+`Windows 10 & 11` <br>
+`macOS 13` `(uso desde Agosto de 2026)` <br>
+#### 🐧 Distro Linux
+`Void` `(uso desde setembro de 2025)` <br>
+`Mint` `(uso desde janeiro de 2025)` <br>
+`Ubuntu` `(uso desde outubro de 2026)` <br>
+`Zorin` `(usado de maio a outubro de 2026)`
 
 ---
 
