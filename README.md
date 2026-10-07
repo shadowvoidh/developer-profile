@@ -21,63 +21,65 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ## 🛠️ Tecnologias & Habilidades
 
 ## ⚙️ Low-Level & Linguagens de Sistemas
-`Rust` <br>
-`Java` <br> 
-`C` <br>
-`C++` <br>
-`C#` <br>
-`Go` <br>
-`Python` 
+<img src="assets/rust.svg" height="15" width="15"> `Rust` <br>
+<img src="assets/java.svg" height="15" width="15">  `Java` <br> 
+<img src="assets/c.svg" height="15" width="15">  `C` <br>
+<img src="assets/cpp.svg" height="15" width="15">  `C++` <br>
+<img src="assets/cs.svg" height="15" width="15">  `C#` <br>
+<img src="assets/go.svg" height="15" width="15">  `Go` <br>
+<img src="assets/python.svg" height="15" width="15">  `Python` 
 
 ## 🌐 Desenvolvimento Web & Back-End
-`TypeScript` <br> 
-`JavaScript` <br> 
-`Node.js` <br>
-`Next.js` <br> 
-`React` <br> 
-`Vue.js` <br> 
-`Angular` <br>
-`PHP` <br> 
-`HTML5` <br> 
-`CSS3` <br> 
-`Tailwind CSS` 
+<img src="assets/ts.svg" height="15" width="15">  `TypeScript` <br> 
+<img src="assets/js.svg" height="15" width="15">  `JavaScript` <br> 
+<img src="assets/node.svg" height="15" width="15">  `Node.js` <br>
+<img src="assets/next.svg" height="15" width="15">  `Next.js` <br> 
+<img src="assets/react.svg" height="15" width="15"> `React` <br> 
+<img src="assets/vue.svg" height="15" width="15"> `Vue.js` <br> 
+<img src="assets/angular.svg" height="15" width="15"> `Angular` <br>
+<img src="assets/php.svg" height="15" width="15"> `PHP` <br> 
+<img src="assets/html.svg" height="15" width="15"> `HTML5` <br> 
+<img src="assets/css3.svg" height="15" width="15"> `CSS3` <br> 
+<img src="assets/tailwind.svg" height="15" width="15"> `Tailwind CSS` 
 
 ## 🗄️ Bancos de Dados
-`MySQL` <br> `SQLite` <br> `PostgreSQL` 
+<img src="assets/mysql.svg" height="15" width="15">  `MySQL` <br> 
+<img src="assets/sqlite.svg" height="15" width="15">  `SQLite` <br> 
+<img src="assets/pdb.svg" height="15" width="15">  `PostgreSQL` 
 
 ## 🗒️ IDEs
-`VS Code` <br>
-`Visual Studio` <br>
-`InteliJ` <br>
-`WebStorm` <br>
-`Eclipse`
+<img src="assets/vs-code.svg" height="15" width="15">  `VS Code` <br>
+<img src="assets/visual-studio.svg" height="15" width="15">  `Visual Studio` <br>
+<img src="assets/intellij.svg" height="15" width="15">  `IntelliJ` <br>
+<img src="assets/webstorm.svg" height="15" width="15">  `WebStorm` <br>
+<img src="assets/eclipse.svg" height="15" width="15">  `Eclipse`
 
 ##  🔧 Ferramentas 
-`Git` <br>
-`Docker` <br>
-`Vmware` <br>
-`Obsidian` <br>
-`Filezilla` <br>
-`Blender`  <br>
-`Excel `
+<img src="assets/git.svg" height="15" width="15">  `Git` <br>
+<img src="assets/docker1.svg" height="15" width="15">  `Docker` <br>
+<img src="assets/vm.svg" height="15" width="15">  `Vmware` <br>
+<img src="assets/obsidian.svg" height="15" width="15">  `Obsidian` <br>
+<img src="assets/filezilla.svg" height="15" width="15"> `Filezilla` <br>
+<img src="assets/blende.svg" height="15" width="15"> `Blender`  <br>
+<img src="assets/excel.svg" height="15" width="15"> `Excel `
 
 
 ## 🤖 IAs 
-`Claude AI` <br>
-`Gemini AI` <br>
-`ChatGPT ` <br>
+<img src="assets/claude.svg" height="15" width="15">  `Claude AI` <br>
+<img src="assets/gemini.svg" height="15" width="15">  `Gemini AI` <br>
+<img src="assets/chatgpt.svg" height="15" width="15">  `ChatGPT ` <br>
 
 ## 🌐 Web
 
 
 ## 💻 OS 
-`Windows 10 & 11` <br>
-`macOS 13` `(uso desde Agosto de 2026)` <br>
+<img src="assets/win10.svg" height="15" width="15"> `Windows 10 & 11` <br>
+<img src="assets/MacOS.svg" height="15" width="15"> `macOS 13` `(uso desde Agosto de 2026)` <br>
 #### 🐧 Distro Linux
-`Void` `(uso desde setembro de 2025)` <br>
-`Mint` `(uso desde janeiro de 2025)` <br>
-`Ubuntu` `(uso desde outubro de 2026)` <br>
-`Zorin` `(usado de maio a outubro de 2026)`
+<img src="assets/void.svg" height="15" width="15"> `Void` `(uso desde setembro de 2025)` <br>
+<img src="assets/mint.svg" height="15" width="15"> `Mint` `(uso desde janeiro de 2025)` <br>
+<img src="assets/ubuntu.svg" height="15" width="15"> `Ubuntu` `(uso desde outubro de 2026)` <br>
+<img src="assets/zorin.svg" height="15" width="15">  `Zorin` `(usado de maio a outubro de 2026)`
 
 ---
 
