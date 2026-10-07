@@ -58,7 +58,8 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 `Vmware` <br>
 `Obsidian` <br>
 `Filezilla` <br>
-`Blender` 
+`Blender`  <br>
+`Excel `
 
 
 ## 🤖 IAs 
