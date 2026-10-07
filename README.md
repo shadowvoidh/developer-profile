@@ -21,7 +21,7 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ## 🛠️ Tecnologias & Habilidades
 
 ## ⚙️ Low-Level & Linguagens de Sistemas
-<img src="assets/rust.svg" height="20" width="20"> `Rust` <br>
+<img src="assets/rust-1.svg" height="20" width="20"> `Rust` <br>
 <img src="assets/java.svg" height="20" width="20">  `Java` <br> 
 <img src="assets/c.svg" height="20" width="20">  `C` <br>
 <img src="assets/cpp.svg" height="20" width="20">  `C++` <br>
