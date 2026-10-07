@@ -36,6 +36,7 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 `Next.js` <br> 
 `React` <br> 
 `Vue.js` <br>  
+`Angular` <br>
 `PHP` <br> 
 `HTML5` <br> 
 `CSS3` <br> 
