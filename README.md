@@ -67,7 +67,7 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ## 🤖 IAs 
 <img src="assets/claude.svg" height="20" width="20">  `Claude AI` <br>
 <img src="assets/gemini.svg" height="20" width="20">  `Gemini AI` <br>
-<img src="assets/chatgpt.svg" height="20" width="20">  `ChatGPT ` <br>
+<img src="assets/chatgpt.svg" height="20" width="20">  `ChatGPT AI ` <br>
 
 ## 🌐 Web
 
@@ -78,7 +78,7 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 #### 🐧 Distro Linux
 <img src="assets/void.svg" height="20" width="20"> `Void` `(uso desde setembro de 2025)` <br>
 <img src="assets/mint.svg" height="20" width="20"> `Mint` `(uso desde janeiro de 2025)` <br>
-<img src="assets/kali-linux.svg" height="20" width="20"> ` Kali` `(uso desde maio de 2026` <br>
+<img src="assets/kali-linux.svg" height="20" width="20"> `Kali` `(uso desde maio de 2026` <br>
 <img src="assets/ubuntu.svg" height="20" width="20"> `Ubuntu` `(uso desde outubro de 2026)` <br>
 <img src="assets/zorin.svg" height="20" width="20">  `Zorin` `(usado de maio a outubro de 2026)`
 
