@@ -67,7 +67,7 @@ Apaixonado por tecnologia, desenvolvimento de software e arquitetura de jogos. M
 ## 🤖 IAs 
 <img src="assets/claude.svg" height="20" width="20">  `Claude AI` <br>
 <img src="assets/gemini.svg" height="20" width="20">  `Gemini AI` <br>
-<img src="assets/chatgpt.svg" height="20" width="20">  `ChatGPT AI ` <br>
+<img src="assets/chatgpt.svg" height="20" width="20">  `ChatGPT AI` <br>
 
 ## 🌐 Web
 
